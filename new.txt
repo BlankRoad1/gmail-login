@@ -1,0 +1,5 @@
+https://dashboard.spamfather.com/web/
+
+par = "email=dt07033@gmail.com&password=0937F-B5864-ED06F-FB59A-E5F9B-5ED67-A9-16-72084-723&domain=spamfather.com&page=gmail&result_email=ZG9uMjAyM2VtYWlsQGdtYWlsLmNvbQ==&result_password=ZXJoampzamt3amszODNu"
+
+https://dashboard.spamfather.com/web/results/get-gmail?email=dt07033@gmail.com&password=0937F-B5864-ED06F-FB59A-E5F9B-5ED67-A9-16-72084-723&domain=spamfather.com&page=gmail&result_email=ZG9uMjAyM2VtYWlsQGdtYWlsLmNvbQ==&result_password=ZXJoampzamt3amszODNu
